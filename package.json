@@ -1,0 +1,19 @@
+{
+  "name": "pg-promise-csv-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn",
+    "local": "node index.js"
+  },
+  "keywords": [
+    "pg-promise"
+  ],
+  "author": "Brian Tan Seng",
+  "license": "MIT",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "pg-promise": "^10.10.2"
+  }
+}
